@@ -32,6 +32,7 @@ Touch mechanics:
 ## Alerts
 
 Alerts are urgent interruptions, requiring acknowledgement, that inform the user about a situation.
+nice one 
 
 Most alerts don't need titles.
 They summarize a decision in a sentence or two by either:
